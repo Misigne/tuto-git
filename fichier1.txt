@@ -1,3 +1,4 @@
+
 <repository>
     <id>AsposeJavaAPI</id>
     <name>Aspose Java API</name>
@@ -7,3 +8,7 @@
     <groupId>com.aspose</groupId>
     <artifactId>aspose-pdf</artifactId>
     <classifier>jdk17</classifier>
+
+echo -e '${Yellow}Welcome to the modification or our code ligne to create Aiiiipp${NC}'
+
+echo -e '${RED}are you ready !!!${NC}'
