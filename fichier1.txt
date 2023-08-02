@@ -9,6 +9,6 @@
     <artifactId>aspose-pdf</artifactId>
     <classifier>jdk17</classifier>
 
-echo -e '${Yellow}Welcome to the modification or our code ligne to create Aiiiipp${NC}'
+echo -e "${Yellow}Welcome to the modification or our code ligne to create App${NC}"
 
-echo -e '${RED}are you ready !!!${NC}'
+echo -e "${RED}are you ready !!!${NC}"
